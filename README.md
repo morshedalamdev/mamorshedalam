@@ -1,9 +1,7 @@
-### Hi there 👋, Assalamualaikum Wa Rahmatullah
+# Hi there <img src="hello.gif" width="28px" alt="hi">
+
 I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I always tried to think out of the box & bring something creative.
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mamorshedalam)  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam)](https://github.com/anuraghazra/github-readme-stats)
 
