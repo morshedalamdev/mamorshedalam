@@ -1,8 +1,8 @@
-# Hi there <img src="hello.gif" width="28px" alt="hi">
+# <img src="hello.gif" width="28px" alt="hi"> Hi there
 
 I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I always tried to think out of the box & bring something creative.
   
-###  𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
+####  𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
 
 - 🌱 I’m currently learning **JS, React, Node**
 
