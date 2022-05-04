@@ -1,9 +1,17 @@
-<h1 align="center">Hi there Morshed Alam</h1>
-<h3 align="center">Assalamualaikum Wa Rahmatullah I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I always tried to think out of the box & bring something creative.</h3>
+### Hi there 👋, Assalamualaikum Wa Rahmatullah
+I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I always tried to think out of the box & bring something creative.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamorshedalam&label=Profile%20views&color=0e75b6&style=flat" alt="mamorshedalam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamorshedalam" alt="mamorshedalam" /></a> </p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mamorshedalam)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorshedalam&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mamorshedalam)  
+
+
 
 - 🌱 I’m currently learning **JS, React, Node**
 
