@@ -10,11 +10,11 @@ I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Comp
 
 - 📝 I regularly write articles on [https://medium.com/@mamorshedalam](https://medium.com/@mamorshedalam)
 
-- 🌐 &nbsp;Visit my portfolio [Fayez](https://mafoyez.netlify.app/)
+- 📫 How to reach me **ma.morshedalambd@gmail.com**
 
 - 💬 Ask me about **ES6, HTML5, CSS3, Bootstrap5**
 
-- 📫 How to reach me **ma.morshedalambd@gmail.com**
+- 🌐 &nbsp;Visit my portfolio [M.A](https://mafoyez.netlify.app/)
 
 
 
