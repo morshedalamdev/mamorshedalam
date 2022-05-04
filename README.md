@@ -30,7 +30,10 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-![VSCO](https://img.shields.io/static/v1?style=for-the-badge&message=VSCO&color=000000&logo=VSCO&logoColor=FFFFFF&label=)
+![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam)](https://github.com/anuraghazra/github-readme-stats)
 
