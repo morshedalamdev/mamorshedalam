@@ -3,14 +3,6 @@
 I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I always tried to think out of the box & bring something creative.
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorshedalam&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mamorshedalam)  
-
-
-
 - 🌱 I’m currently learning **JS, React, Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mamorshedalam?tab=repositories](https://github.com/mamorshedalam?tab=repositories)
@@ -20,6 +12,16 @@ I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Comp
 - 💬 Ask me about **ES6, HTML5, CSS3, Bootstrap5**
 
 - 📫 How to reach me **ma.morshedalambd@gmail.com**
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorshedalam&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mamorshedalam)  
+
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NpJez7NmX8fWX1wlnpdIivzNDRNJhbsI/view?usp=sharing](https://drive.google.com/file/d/1NpJez7NmX8fWX1wlnpdIivzNDRNJhbsI/view?usp=sharing)
 
