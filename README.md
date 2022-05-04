@@ -2,13 +2,15 @@
 
 I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I always tried to think out of the box & bring something creative.
   
-####  𝐅𝐢𝐧𝐝 𝐌𝐞 𝐎𝐧𝐥𝐢𝐧𝐞!
+####  Find Me On :
 
 - 🌱 I’m currently learning **JS, React, Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mamorshedalam?tab=repositories](https://github.com/mamorshedalam?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@mamorshedalam](https://medium.com/@mamorshedalam)
+
+- 🌐 &nbsp;Visit my portfolio [Fayez](https://mafoyez.netlify.app/)
 
 - 💬 Ask me about **ES6, HTML5, CSS3, Bootstrap5**
 
