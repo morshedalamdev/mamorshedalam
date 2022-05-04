@@ -1,9 +1,9 @@
 # <img src="hello.gif" width="28px" alt="hi"> Hi there
 
-I'm a **Web Developer**. Also a **Photographer** by passion. Studying **Computer Technology**.<br>
+I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Technology.<br>
 <i>I Spend most of the time coding. I have been working on web development since 2019 and trying to learn new technologies every day. Always tried to think out of the box & bring something creative through hard work.</i>
   
-####  Find Me On :
+#### Find Me On :
 
 - 🌱 I’m currently learning **JS, React, Node**
 
