@@ -53,5 +53,3 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamorshedalam&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mamorshedalam)  
