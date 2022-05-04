@@ -1,6 +1,6 @@
 # <img src="hello.gif" width="28px" alt="hi"> Hi there
 
-I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I always tried to think out of the box & bring something creative.
+<i>I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Computer Technology. I Spend most of the time coding. I have been working on web development since 2019 and trying to learn new technologies every day. Always tried to think out of the box & bring something creative through hard work.</i>
   
 ####  Find Me On :
 
@@ -14,7 +14,7 @@ I'm Morshed Alam. A Web Developer. Also a Photographer by passion. Studying Comp
 
 - 💬 Ask me about **ES6, HTML5, CSS3, Bootstrap5**
 
-- 🌐 &nbsp;Visit my portfolio [M.A](https://mafoyez.netlify.app/)
+- 🌐 &nbsp;Visit my portfolio [M.A](https://mamorshedalam.netlify.app/)
 
 
 
