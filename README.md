@@ -18,6 +18,8 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 - 📝 I regularly write articles on [https://medium.com/@mamorshedalam](https://medium.com/@mamorshedalam)
 
 - 📫 How to reach me **ma.morshedalambd@gmail.com**
+- 
+- :computer: &emsp;Most used line of code `console.log("test")`
 
 - 💬 Ask me about **ES6, HTML5, CSS3, Bootstrap5**
 
