@@ -52,4 +52,4 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 [![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)](#)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam&theme=react&layout=compact)]
