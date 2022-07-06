@@ -42,7 +42,7 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 [![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)](#)
 [![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=264de4&logo=CSS3&logoColor=FFFFFF&label=)](#)
 [![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=563d7c&logo=Bootstrap&logoColor=FFFFFF&label=)](#)
-[![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=38BDF8&logo=Tailwind+CSS&logoColor=06B6D4&label=)](#)
+[![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=06B6D4&logo=Tailwind+CSS&logoColor=FFFFFF&label=)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-171515?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=00C7B7&label=)](#)
