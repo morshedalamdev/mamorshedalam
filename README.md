@@ -48,7 +48,7 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=FFFFFF&label=)](#)
 [![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=6567a5&logo=Heroku&logoColor=FFFFFF&label=)](#)
 [![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
-[![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=e04a34&logo=Figma&logoColor=FFFFFF&label=)](#)
+[![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=A259FF&logo=Figma&logoColor=FFFFFF&label=)](#)
 [![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=db3236&logo=Google+Chrome&logoColor=FFFFFF&label=)](#)
 
 
