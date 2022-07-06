@@ -34,7 +34,7 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
 ![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)
-[![Firebase](https://img.shields.io/badge/Firebase-4EA94B?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCA28&label=)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCB2B)](#)
 
 
 #### Things I code with:
