@@ -44,7 +44,7 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 [![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=563d7c&logo=Bootstrap&logoColor=FFFFFF&label=)](#)
 [![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=06B6D4&logo=Tailwind+CSS&logoColor=FFFFFF&label=)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Git-171515?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=00C7B7&label=)](#)
 [![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=6567a5&logo=Heroku&logoColor=FFFFFF&label=)](#)
 [![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
