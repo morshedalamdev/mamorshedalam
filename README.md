@@ -21,7 +21,7 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 
 - :computer: Most used line of code `console.log("test")`
 
-- 💬 Ask me about **ES6, HTML5, CSS3, Bootstrap5, Tailwind CSS**
+- 💬 Ask me about **ES6, React JS, HTML5, CSS3, Bootstrap5, Tailwind CSS**
 
 - 🌐 &nbsp;Visit my portfolio [M.A](https://mamorshedalam.netlify.app/)
 
