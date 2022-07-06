@@ -40,16 +40,16 @@ I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Techn
 #### Things I code with:
 
 [![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)](#)
-[![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)](#)
-[![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)](#)
-[![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)](#)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
-[![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)](#)
-[![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)](#)
-[![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)](#)
-[![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)](#)
+[![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=264de4&logo=CSS3&logoColor=FFFFFF&label=)](#)
+[![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=563d7c&logo=Bootstrap&logoColor=FFFFFF&label=)](#)
+[![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=f44336&logo=Tailwind+CSS&logoColor=06B6D4&label=)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/Git-171515?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=00C7B7&label=)](#)
+[![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=6567a5&logo=Heroku&logoColor=FFFFFF&label=)](#)
+[![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
+[![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=e04a34&logo=Figma&logoColor=FFFFFF&label=)](#)
+[![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=db3236&logo=Google+Chrome&logoColor=FFFFFF&label=)](#)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam&theme=react&layout=compact)](#)
