@@ -1,6 +1,7 @@
 # <img src="hello.gif" height="25px" alt="hi"> Hi there
 
 Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
+
 I'm the founder & CEO of **TECH-iNFINY** and a **JavaScript developer**.
 I love to do photography and enjoy working with a team.<br>
 I am a student of **Computer Technology** and have been working on Web Development since 2019.<br>
