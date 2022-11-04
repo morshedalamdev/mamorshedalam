@@ -1,7 +1,10 @@
 # <img src="hello.gif" height="25px" alt="hi"> Hi there
 
-I'm a **Web Developer**. Also a Photographer by passion. Studying Computer Technology.<br>
-<i>I Spend most of the time coding. I have been working on web development since 2019 and trying to learn new technologies every day. Always tried to think out of the box & bring something creative through hard work.</i>
+Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
+I'm the founder & CEO of **TECH-iNFINY** and a **JavaScript developer**.
+I love to do photography and enjoy working with a team.<br>
+I am a student of **Computer Technology** and have been working on Web Development since 2019.<br>
+<i>I try to learn new technologies daily and bring something creative through hard work.</i>
   
 #### Find Me On :
 
