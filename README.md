@@ -54,6 +54,3 @@ I am a student of **Computer Technology** and have been working on Web Developme
 [![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
 [![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=A259FF&logo=Figma&logoColor=FFFFFF&label=)](#)
 [![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=db3236&logo=Google+Chrome&logoColor=FFFFFF&label=)](#)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamorshedalam&theme=react&layout=compact)](#)
