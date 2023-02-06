@@ -2,10 +2,11 @@
 
 Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
 
-I'm the founder & CEO of **TECH-iNFINY** and a **JavaScript developer**.
-I love to do photography and enjoy teamwork.<br>
-I am a student of **Computer Technology** and have been working on Web Development since 2019.<br>
-<i>I try to learn new technologies daily and bring something creative through hard work.</i>
+I'm a Web Developer. Studying Computer Science & Technology.
+I spend most of my time coding. I have been working on web development
+since 2019 and trying to learn new technologies daily. Always tried to think
+out of the box & bring something creative through hard work. And love
+working with the team.
   
 #### Find Me On :
 
