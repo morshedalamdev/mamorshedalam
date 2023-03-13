@@ -2,11 +2,7 @@
 
 Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
 
-I'm a Web Developer. Studying Computer Science & Technology.
-I spend most of my time coding. I have been working on web development
-since 2019 and trying to learn new technologies daily. Always tried to think
-out of the box & bring something creative through hard work. And love
-working with the team.
+I'm a experienced Web Developer since 2019. Studying Computer Technology. I have developed a strong understanding of front-end technologies and their integration with back-end systems.
   
 #### Find Me On :
 
