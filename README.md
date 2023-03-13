@@ -2,7 +2,7 @@
 
 Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
 
-I'm a experienced Web Developer since 2019. Studying Computer Technology. I have developed a strong understanding of front-end technologies and their integration with back-end systems.
+I'm a <b>Web Developer</b> with 4 years of experience. And also studying Computer Technology. I have developed a strong understanding of front-end technologies and their integration with back-end systems.
   
 #### Find Me On :
 
