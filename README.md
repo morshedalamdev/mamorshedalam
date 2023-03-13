@@ -3,6 +3,10 @@
 Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
 
 I'm a <b>Web Developer</b> with 4 years of experience. And also studying Computer Technology. I have developed a strong understanding of front-end technologies and their integration with back-end systems.
+
+As an experienced Front End Developer, I am well-versed in <b>HTML 5, CSS 3, and JavaScript (ES6)</b> and I have worked extensively with popular front-end frameworks such as <b>React JS, Redux, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node JS</b> and I have used databases like <b>MongoDB and Firebase.</b>
+
+My expertise in front-end technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code,</i> which I believe are essential skills for this role. I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
   
 #### Find Me On :
 
