@@ -2,7 +2,7 @@
 
 Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
 
-I'm a <b>Web Developer</b> since 2019. And also studying Computer Technology. I have developed a strong understanding of front-end technologies and their integration with back-end systems.
+I'm a <b>Web Developer</b> since 2019. And also a student <b>Computer Technology.</b> I have developed a strong understanding of front-end technologies and their integration with back-end systems.
 
 As an experienced Front End Developer, I am well-versed in <b>HTML 5, CSS 3, and JavaScript (ES6)</b> and I have worked extensively with popular front-end frameworks such as <b>React JS, Redux, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node JS</b> and I have used databases like <b>MongoDB and Firebase.</b>
 
