@@ -57,4 +57,4 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
 [![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=A259FF&logo=Figma&logoColor=FFFFFF&label=)](#)
 [![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=db3236&logo=Google+Chrome&logoColor=FFFFFF&label=)](#)
-[![Vite Js](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E=)](#)
+[![Vite Js](https://img.shields.io/badge/-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E=)](#)
