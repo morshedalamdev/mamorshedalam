@@ -1,7 +1,7 @@
 # <img src="hello.gif" height="25px" alt="hi"> Hi there
 
 <img src="mamorshedalam.png" width="100%" alt="hi">
-Assalamualaikum Wa Rahmatullah Wa Barakatuh,<br>
+Assalamualaikum Wa Rahmatullah Wa Barakatuh,
 
 I'm a <b>Frontend Developer</b> since 2019. And also a student of <b>Computer Technology.</b> I have developed a strong understanding of front-end technologies and their integration with back-end systems.
 
