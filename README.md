@@ -18,7 +18,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mamorshedalam2)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma.morshedalambd@gmail.com)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mamorshedalam?tab=repositories](https://github.com/mamorshedalam?tab=repositories)
 
