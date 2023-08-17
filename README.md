@@ -24,7 +24,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 
 - 📝 I regularly write articles on [https://medium.com/@mamorshedalam](https://medium.com/@mamorshedalam)
 
-- 📫 How to reach me **ma.morshedalambd@gmail.com**
+- 📫 How to reach me **mamorshedalam@outlook.com**
 
 - :computer: Most used line of code `console.log("test")`
 
