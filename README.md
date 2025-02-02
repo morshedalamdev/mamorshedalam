@@ -62,7 +62,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Vite Js](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](#)
 
 
-#### Beside Coding I am well at:
+#### Beside Coding:
 
 [![Filmora Pro](https://img.shields.io/badge/Filmora-09283e?style=for-the-badge&logo=wondersharefilmora&logoColor=50e3c2&labelColor=09283e)](#)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
