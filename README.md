@@ -2,11 +2,11 @@
 
 <img src="mamorshedalam.png" width="100%" alt="hi">
 
-I'm a <b>Frontend Developer</b> since 2019. And also a student of <b>Computer Technology.</b> I have developed a strong understanding of front-end technologies and their integration with back-end systems.
+I'm a <b>Web Developer</b> since 2019. And also a student of <b>Computer Technology.</b> I have developed a strong understanding of Web technologies and their integration with back-end systems.
 
-As an experienced Web Developer, I am well-versed in <b>JavaScript (ES6)</b> and I have worked extensively with popular front-end frameworks such as <b>React JS, Redux, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node JS</b> and I have used databases like <b>MongoDB and Firebase.</b>
+As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node JS</b> and I have used databases like <b>MongoDB and Firebase.</b>
 
-My expertise in front-end technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code.</i> I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
+My expertise in web technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code.</i> I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
 
 Along with technical expertise, I bring a positive attitude, excellent communication skills, and the ability to work well under pressure. I also have a strong focus on meeting deadlines and delivering quality results. Furthermore, my passion for web development and new technologies makes me eager to take on new challenges and opportunities to grow my skills.
   
@@ -16,9 +16,9 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamorshedalam)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mamorshedalam)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mamorshedalam2)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma.morshedalambd@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamorshedalam@outlook.com)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mamorshedalam?tab=repositories](https://github.com/mamorshedalam?tab=repositories)
 
