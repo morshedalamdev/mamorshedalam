@@ -53,6 +53,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=264de4&logo=CSS3&logoColor=FFFFFF&label=)](#)
 [![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=563d7c&logo=Bootstrap&logoColor=FFFFFF&label=)](#)
 [![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=06B6D4&logo=Tailwind+CSS&logoColor=FFFFFF&label=)](#)
+[![ShadCN CSS](https://img.shields.io/badge/-shadcn-black?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=black)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=FFFFFF&label=)](#)
