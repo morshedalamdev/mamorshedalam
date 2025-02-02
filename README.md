@@ -29,8 +29,6 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 
 - :computer: Most used line of code `console.log("test")`
 
-- 💬 Ask me about **ES6, React JS, HTML5, CSS3, Bootstrap5, Tailwind CSS**
-
 - 🌐 &nbsp;Visit my portfolio [M.A](https://mamorshedalam.netlify.app/)
 
 
@@ -55,7 +53,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=563d7c&logo=Bootstrap&logoColor=FFFFFF&label=)](#)
 [![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=06B6D4&logo=Tailwind+CSS&logoColor=FFFFFF&label=)](#)
 [![ShadCN CSS](https://img.shields.io/badge/-shadcn-black?style=for-the-badge&logo=shadcnui&logoColor=white&labelColor=black)](#)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=FFFFFF&label=)](#)
 [![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=6567a5&logo=Heroku&logoColor=FFFFFF&label=)](#)
