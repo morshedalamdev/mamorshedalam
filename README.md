@@ -17,7 +17,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mamorshedalam)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/mamorshedalam2)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamorshedalam@outlook.com)
-[![Mail Badge](https://img.shields.io/badge/-whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=green)](mailto:mamorshedalam@outlook.com)
+[![Mail Badge](https://img.shields.io/badge/-whatsapp-3C873A?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=3C873A)](tel:+8801846335554)
 
 - 🌱 I’m currently learning **Python**
 
