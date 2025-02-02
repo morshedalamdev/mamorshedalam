@@ -35,6 +35,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 
 #### Technologies I use:
 
+[![TypeScript Badge](https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
