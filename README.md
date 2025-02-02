@@ -64,6 +64,8 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 
 #### Beside Coding I am well at:
 
-
-[![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
 [![Filmora Pro](https://img.shields.io/badge/Filmora-09283e?style=for-the-badge&logo=wondersharefilmora&logoColor=50e3c2&labelColor=09283e)](#)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+[![MS Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&labelColor=D83B01)](#)
