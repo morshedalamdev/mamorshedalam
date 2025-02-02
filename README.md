@@ -15,8 +15,9 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ma.morshedalambd)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamorshedalam)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mamorshedalam)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mamorshedalam2)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/mamorshedalam2)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamorshedalam@outlook.com)
+[![Mail Badge](https://img.shields.io/badge/-whatsapp-black?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=green)](mailto:mamorshedalam@outlook.com)
 
 - 🌱 I’m currently learning **Python**
 
@@ -58,7 +59,13 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Git Badge](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=FFFFFF&label=)](#)
 [![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=6567a5&logo=Heroku&logoColor=FFFFFF&label=)](#)
-[![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
 [![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=A259FF&logo=Figma&logoColor=FFFFFF&label=)](#)
 [![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=db3236&logo=Google+Chrome&logoColor=FFFFFF&label=)](#)
 [![Vite Js](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](#)
+
+
+#### Beside Coding I am well at:
+
+
+[![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=4FCCFE&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)](#)
+[![Filmora Pro](https://img.shields.io/badge/-Filmora-09283e?style=for-the-badge&logo=wondersharefilmora&logoColor=50e3c2&labelColor=09283e)](#)
