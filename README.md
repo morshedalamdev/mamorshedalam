@@ -4,7 +4,7 @@
 
 I'm a <b>Web Developer</b> since 2019. And also a student of <b>Computer Technology.</b> I have developed a strong understanding of Web technologies and their integration with back-end systems.
 
-As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node JS</b> and I have used databases like <b>MongoDB and Firebase.</b>
+As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, React Native, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node JS</b> and I have used databases like <b>MongoDB and Firebase.</b>
 
 My expertise in web technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code.</i> I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
 
@@ -37,6 +37,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 [![Javascript Badge](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Next Badge](https://img.shields.io/badge/next-black?style=for-the-badge&logo=Next.js&logoColor=white&labelColor=black)](#)
 [![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)](#)
 [![Nodejs Badge](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Sanity Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Express.js Badge](https://img.shields.io/badge/sanity-F03E43?style=for-the-badge&logo=sanity&logoColor=white&labelColor=black)](#)
