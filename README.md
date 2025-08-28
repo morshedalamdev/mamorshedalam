@@ -12,10 +12,10 @@ Along with technical expertise, I bring a positive attitude, excellent communica
   
 #### Find Me On :
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ma.morshedalambd)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamorshedalam)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mamorshedalam)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/mamorshedalam2)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/morshedalamdev)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshedalamdev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/morshedalamdev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/morshedalamdev)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamorshedalam@outlook.com)
 
 - 🌱 I’m currently learning **Python**
@@ -28,7 +28,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 
 - :computer: Most used line of code `console.log("test")`
 
-- 🌐 &nbsp;Visit my portfolio [M.A](https://mamorshedalam.netlify.app/)
+- 🌐 &nbsp;Visit my portfolio [M.A](https://morshedalamdev.netlify.app)
 
 
 #### Technologies I use:
