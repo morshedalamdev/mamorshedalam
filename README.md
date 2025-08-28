@@ -20,7 +20,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mamorshedalam?tab=repositories](https://github.com/mamorshedalam?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/morshedalamdev?tab=repositories](https://github.com/morshedalamdev?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@mamorshedalam](https://medium.com/@mamorshedalam)
 
